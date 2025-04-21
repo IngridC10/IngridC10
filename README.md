@@ -1,6 +1,6 @@
 <h1 align="center">Hola a todos 👋, Soy Ingrid</h1>
 
-🌍 Soy egresada de la carrera de **Negocios Internacionales**, y actualmente me estoy formando de manera autodidacta en el área de **Desarrollo Web**, con enfoque en **programación Frontend**.
+🌍 Actualmente me estoy formando de manera autodidacta en el área de **Desarrollo Web**, con enfoque en **programación Frontend**.
 
 🎯 Mi objetivo es integrarme profesionalmente en el sector tecnológico, aplicar mis conocimientos en proyectos reales y continuar fortaleciendo mi perfil como desarrolladora web.
 
